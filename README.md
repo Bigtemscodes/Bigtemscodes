@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **javascript, next, react, framework**
 
-- 💬 Ask me about **html, css, javascript**
+- 💬 Ask me about **html, css, javascript, python, c++**
 
 - 📫 How to reach me **temidarams1@gmail.com**
 
